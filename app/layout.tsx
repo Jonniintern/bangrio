@@ -51,7 +51,7 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "Bangr.io | Next level meme-generator and storage",
+  title: "Bangr.io | Next level content generator",
   description: "Bangr.io",
   keywords: [
     "Bangr",
@@ -62,6 +62,9 @@ export const metadata: Metadata = {
     "Generator",
     "Content tool",
   ],
+  openGraph: {
+    images: "https://lab.bangr.io/images/bangriologo_original.png",
+  },
   authors: [
     {
       name: "Pixelaxis",
