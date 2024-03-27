@@ -60,8 +60,8 @@ const HomeBanner = () => {
           <div className="col-12 col-sm-8 col-md-7 col-lg-7 col-xxl-6">
             <div className="banner__content text-center">
               <h1>
-                Make a <span>Bangr</span> Use The{" "}
-                <span className="banner-anime">LAB</span>
+                Make a <span>Bangr</span> <br />
+                Use The <span className="banner-anime">LAB</span>
               </h1>
             </div>
           </div>
