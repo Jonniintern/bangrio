@@ -59,7 +59,7 @@ const HomeBanner = () => {
         <div className="row justify-content-center">
           <div className="col-12 col-sm-8 col-md-7 col-lg-7 col-xxl-6">
             <div className="banner__content text-center">
-              <h1 className="title-animation">
+              <h1>
                 Make a <span>Bangr</span> Use The{" "}
                 <span className="banner-anime">LAB</span>
               </h1>
