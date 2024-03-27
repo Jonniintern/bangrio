@@ -9,7 +9,7 @@ const Generation = () => {
           <div className="col-12 col-lg-5 col-xxl-4">
             <div className="section__content">
               <span className="sub-title">Communtiy hub</span>
-              <h2 className="title title-animation">Upload, save and share</h2>
+              <h2 className="title">Upload, save and share</h2>
               <p>
                 Where the community easily share, store and filter their
                 content.

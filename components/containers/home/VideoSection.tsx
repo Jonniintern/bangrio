@@ -11,9 +11,7 @@ const VideoSection = () => {
               <div className="row justify-content-center">
                 <div className="col-12 col-lg-9 col-xxl-7">
                   <div className="section__header text-center">
-                    <h1 className="title mt-0 title-animation">
-                      Next Wave of Web3 Content
-                    </h1>
+                    <h1 className="title mt-0">Next Wave of Web3 Content</h1>
 
                     <h6>
                       A Masterpeice In The Making - A Community Game-changer

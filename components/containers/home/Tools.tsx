@@ -16,9 +16,7 @@ const Tools = () => {
           <div className="col-12 col-lg-5 col-xxl-4 offset-xxl-1 order-first order-lg-last">
             <div className="section__content">
               <span className="sub-title">Creator tools</span>
-              <h2 className="title title-animation">
-                Easy to use, easy to share
-              </h2>
+              <h2 className="title">Easy to use, easy to share</h2>
               <p>
                 Choose, Render & Use.
                 <br />

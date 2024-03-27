@@ -15,7 +15,7 @@ const Easy = () => {
           <div className="col-12 col-lg-6 col-xl-5 offset-xl-2">
             <div className="section__content">
               <span className="sub-title-two">Building</span>
-              <h2 className="title title-animation">Future Development</h2>
+              <h2 className="title">Future Development</h2>
               <p>
                 The BangrLab is always in development. More features to come,
                 more ideas to be revealed. Partners we will also be included in

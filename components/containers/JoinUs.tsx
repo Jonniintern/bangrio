@@ -5,7 +5,7 @@ const JoinUs = () => {
     <div className="row">
       <div className="col-12">
         <div className="footer-cmn__cta text-center appear-down">
-          <h2 className="title fw-7 title-animation">Questions?</h2>
+          <h2 className="title fw-7">Questions?</h2>
           <div className="section__content-cta">
             <Link
               href="https://discord.com/invite/qpP4xVATHB"

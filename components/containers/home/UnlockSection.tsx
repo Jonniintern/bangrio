@@ -9,9 +9,7 @@ const UnlockSection = () => {
         <div className="row justify-content-center">
           <div className="col-12 col-lg-5">
             <div className="section__header text-center">
-              <h2 className="title sub-title-two mt-0 title-animation">
-                Curated Partnerships
-              </h2>
+              <h2 className="title sub-title-two mt-0">Curated Partnerships</h2>
             </div>
           </div>
         </div>
@@ -19,7 +17,7 @@ const UnlockSection = () => {
           <div className="col-12 col-lg-5 col-xxl-4">
             <div className="section__content">
               <span className="sub-title">Private Services</span>
-              <h2 className="title title-animation">Content Heaven</h2>
+              <h2 className="title">Content Heaven</h2>
               <p>
                 Entering the Bangr-infrastructure. The gates of content
                 explosions open for the community.

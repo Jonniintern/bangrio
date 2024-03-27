@@ -11,7 +11,7 @@ const Craft = () => {
           <div className="col-12 col-lg-6 col-xxl-5">
             <div className="section__content">
               <span className="sub-title">BangrLab</span>
-              <h2 className="title title-animation">Next Level NFT usage</h2>
+              <h2 className="title ">Next Level NFT usage</h2>
               <p>Built from scratch. Crafted for NFTs.</p>
               <div className="section__content-cta">
                 <Link href="https://lab.bangr.io" className="btn btn--primary">

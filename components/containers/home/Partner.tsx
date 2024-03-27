@@ -20,9 +20,7 @@ const Partner = () => {
         <div className="row justify-content-center">
           <div className="col-12 col-lg-5">
             <div className="section__header text-center">
-              <h2 className="title sub-title-two mt-0 title-animation">
-                Lab Partners
-              </h2>
+              <h2 className="title sub-title-two mt-0">Lab Partners</h2>
             </div>
           </div>
         </div>
