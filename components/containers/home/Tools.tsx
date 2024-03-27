@@ -8,7 +8,7 @@ const Tools = () => {
         <div className="row gaper align-items-center">
           <div className="col-12 col-lg-7">
             <div className="tools__thumb dir-rtl">
-              <div className="reveal-img parallax-img">
+              <div>
                 <Image src={ToolsThumb} alt="Image" className="unset" />
               </div>
             </div>

@@ -33,7 +33,7 @@ const UnlockSection = () => {
           </div>
           <div className="col-12 col-lg-6 offset-lg-1 col-xxl-6 offset-xxl-2">
             <div className="unlock__thumb text-start text-lg-end">
-              <div className="reveal-img parallax-img">
+              <div>
                 <Image src={unlockThumb} alt="Image" priority />
               </div>
             </div>

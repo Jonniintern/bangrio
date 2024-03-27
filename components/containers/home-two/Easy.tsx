@@ -8,7 +8,7 @@ const Easy = () => {
       <div className="container">
         <div className="row gaper align-items-center">
           <div className="col-12 col-lg-6 col-xl-5">
-            <div className="easy__thumb dir-rtl reveal-img d-block parallax-img">
+            <div className="easy__thumb dir-rtl  d-block ">
               <Image src={Thumb} alt="Image" className="unset" />
             </div>
           </div>

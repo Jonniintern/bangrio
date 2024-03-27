@@ -18,7 +18,7 @@ const Generation = () => {
           </div>
           <div className="col-12 col-lg-7 col-xxl-7 offset-xxl-1">
             <div className="gen__thumb">
-              <div className="reveal-img parallax-img">
+              <div>
                 <Image src={GenThumb} alt="Image" className="unset" />
               </div>
             </div>
