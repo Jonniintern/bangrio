@@ -31,7 +31,7 @@ const RevolutionHover = () => {
 
   return (
     <section className="section revolution-f fade-wrapper">
-      <div className="container">
+      {/* <div className="container">
         <div className="row justify-content-center">
           <div className="col-12 col-lg-8 col-xxl-6">
             <div className="section__header text-center">
@@ -131,7 +131,7 @@ const RevolutionHover = () => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </section>
   );
 };

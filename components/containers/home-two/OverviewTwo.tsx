@@ -7,7 +7,7 @@ import Three from "@/public/images/o-three.png";
 const OverviewTwo = () => {
   return (
     <section className="section overview-two fade-wrapper pb-0">
-      <div className="container">
+      {/* <div className="container">
         <div className="row align-items-center justify-content-center gaper">
           <div className="col-12 col-sm-9 col-md-6 col-xl-4">
             <div className="overview-two__single text-center fade-top">
@@ -71,7 +71,7 @@ const OverviewTwo = () => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </section>
   );
 };
