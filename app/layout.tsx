@@ -64,6 +64,22 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     images: "https://lab.bangr.io/images/bangriologo_original.png",
+    title: "Bangr.io",
+    description: "Start with a bang(r)",
+    url: "https://bangr.io",
+    siteName: "Bangr.io",
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    site: "@bangrbot",
+    title: "BangrLab",
+    description: "Start with a bang(r)",
+    creator: "@bangrbot",
+    images: {
+      url: "https://lab.bangr.io/images/bangriologo_original.png",
+      alt: "BangrLab",
+    },
   },
   authors: [
     {
