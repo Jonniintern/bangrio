@@ -8,7 +8,7 @@ const JoinUs = () => {
           <h2 className="title fw-7">Questions?</h2>
           <div className="section__content-cta">
             <Link
-              href="https://discord.gg/tVAE9UTuy9"
+              href="https://discord.gg/abftDHqUV8"
               target="_blank"
               className="btn btn--primary"
             >

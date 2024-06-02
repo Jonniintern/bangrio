@@ -86,7 +86,7 @@ const FooterTwo = () => {
               <div className="footer__copyright-social justify-content-center justify-content-lg-end">
                 <p className="tertiary-text d-none d-lg-block">Contact Us :</p>
                 <div className="social">
-                  <Link href="https://discord.gg/tVAE9UTuy9" target="_blank">
+                  <Link href="https://discord.gg/abftDHqUV8" target="_blank">
                     <Image src={DiscordLogo} alt="Image" priority />
                   </Link>
                   <Link href="https://twitter.com/bangrbot" target="_blank">
